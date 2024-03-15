@@ -42,6 +42,7 @@ namespace BuiPhuKhuyen_397_Tuan2.Controllers
             return View(product);
         }
 
+       // public void ///
 
     }
 }
